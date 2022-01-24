@@ -1,0 +1,2 @@
+# angular-
+satış portalı
